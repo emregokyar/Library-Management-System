@@ -23,6 +23,8 @@ A Library Management System built using JavaFX, featuring CRUD operations, MySQL
 - **MySQL** (Database Management)
 - **Hibernate** (ORM Framework)
 - **JDBC** (Database Connectivity)
+
+## Photos
 <img width="701" alt="Screenshot 2025-04-06 at 00 16 55" src="https://github.com/user-attachments/assets/7c5e83e1-24bf-4fbf-bc31-99aa352ff74e" />
 <img width="687" alt="Screenshot 2025-04-06 at 00 17 08" src="https://github.com/user-attachments/assets/df9ccd55-ebf2-4e35-b956-52763bd046f4" />
 <img width="699" alt="Screenshot 2025-04-06 at 00 18 07" src="https://github.com/user-attachments/assets/141bcba7-e7a2-467d-8ada-685e98939098" />
